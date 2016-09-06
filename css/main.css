@@ -1,0 +1,57 @@
+body{background-color:#F1F3EB; }
+
+nav.navbar {
+    background-color: #1495CE;
+}
+ 
+header{
+    height: 130px;
+}
+.logo{
+    height: 50px;
+}
+select{
+    border-style: none!important;
+    background-color: transparent!important;
+    box-shadow: none!important;
+}
+            /*** SECCION ***/
+section{
+    height: 2000px;
+}
+            /*** FOOTER ***/
+footer{
+    height: 10%;
+}
+        /*** UTILIDADES ***/
+/*Color de Fondo*/
+.bg-blue{
+    background-color: #1495CE;
+}
+/*Textos de color*/
+.text-white{
+    color: white!important;
+}
+.text-black{
+    color: black;
+}
+/*Padding*/
+.pd-0{
+    padding: 0;
+}
+.pd-3{
+    padding: 3%;
+}
+.pdr-3{
+    padding-right: 3%;
+}
+.pd-5{
+    padding: 5%;
+}
+/*Margin*/
+.m-0{
+    margin: 0;
+}
+span{
+    color:#C01414;
+}
