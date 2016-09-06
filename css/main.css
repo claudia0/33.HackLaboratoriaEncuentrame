@@ -1,4 +1,4 @@
-body{background-color:#F1F3EB; }
+body{background-color:#CDC9C9; }
 
 nav.navbar {
     background-color: #1495CE;
@@ -10,16 +10,6 @@ header{
 .logo{
     height: 50px;
 }
-select{
-    border-style: none!important;
-    background-color: transparent!important;
-    box-shadow: none!important;
-}
-            /*** SECCION ***/
-section{
-    height: 2000px;
-}
-            /*** FOOTER ***/
 footer{
     height: 10%;
 }
